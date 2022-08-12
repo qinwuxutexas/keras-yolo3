@@ -1,4 +1,5 @@
 # keras-yolo3
+this is a forked version from qqwwee/keras-yolo3, to: 1) address bugs as raised due to libraries updating, and 2) adapt the code to user's own engineering cases
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
